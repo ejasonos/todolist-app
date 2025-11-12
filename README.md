@@ -13,7 +13,7 @@
 ---
 
 ### 🧠 About Me
-
+- 🎓 **Bsc Computer Engineering**
 - 🔭 Currently building full-stack applications with **Vue**, **React**, **Node**, and **MongoDB**
 - 🎨 Passionate about clean UI with **TailwindCSS** and strong typing using **TypeScript**
 - ⚡ Fun fact: I enjoy turning coffee into scalable web apps
@@ -57,6 +57,6 @@
 Here are some of my highlighted open-source or side projects:
 
 ```md
-- ⚡ [Coming Soon Project]https://github.com/ejasonos
-- 📊 [Dashboard Starter]https://github.com/ejasonos
-- 🌐 [Node.js API Boilerplate]https://github.com/ejasonos
+- ⚡ [Health care management] https://medvax-clone.vercel.app/
+- 📊 [Vehicle hire service] https://kayson-six.vercel.app/
+- 🌐 [Newsletter service] https://newsletter-timeless.vercel.app/
